@@ -6,17 +6,6 @@ slug: understanding-async-concepts-in-javascript
 
 ---
 
-seoTitle: "Understanding Async Concepts in JavaScript"
-seoDescription: "JavaScript runs in a single-threaded, synchronous manner, meaning it executes one task at a time in a sequential order."
-datePublished: Fri Jul 19 2024 06:15:37 GMT+0000 (Coordinated Universal Time)
-cuid: clysb3hs0000j0aig5uvz0o4w
-slug: understanding-async-concepts-in-javascript
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721368527835/be669184-fb85-4fda-93ca-65d095a99094.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721368626542/47ef0714-ab10-42fa-b5b9-85278ae1044d.png
-tags: javascript, asynchronous, promises, callback-functions
-
----
-
 ### How JavaScript Executes Code
 
 JavaScript is a single-threaded language that can only execute one task at a time. When you write JavaScript code, it's run by the JavaScript engine in a top-down manner. This means the code is executed line by line, and each line must be completed before moving on to the next. This sequential execution is what makes JavaScript synchronous by default.
